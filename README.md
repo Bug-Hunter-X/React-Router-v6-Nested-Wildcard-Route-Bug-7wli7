@@ -1,0 +1,1 @@
+This repository demonstrates a bug in React Router v6 related to nested wildcard routes.  Specifically, the route '/users/:id/*' behaves unexpectedly when combined with other routes.  The provided solution avoids the issue using an alternative route structure.
